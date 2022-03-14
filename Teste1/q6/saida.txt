@@ -1,0 +1,12 @@
+Data atual: 18/02/2022 
+Digite a nova data: (dd-mm-aa) [A[A[B[B
+O sistema não pode aceitar a data digitada.
+Digite a nova data: (dd-mm-aa) 
+- NOME: Eu Mesmo
+- DATA DE NASCIMENTO: 01/01/1970
+- MATRICULA: 12/34567890
+Data atual: 18/02/2022 
+Digite a nova data: (dd-mm-aa) 
+- NOME: Eu Mesmo
+- DATA DE NASCIMENTO: 01/01/1970
+- MATRICULA: 12/34567890
